@@ -1,0 +1,17 @@
+{
+  "name": "fb-geography",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lokesh.sardana",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.3",
+    "jquery": "^1.9.1",
+    "moment": "^2.20.1",
+    "popper.js": "^1.12.9"
+  }
+}

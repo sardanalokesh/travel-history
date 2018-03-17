@@ -1,0 +1,11 @@
+#loginBtn {
+	display: block;
+    text-align: center;
+    height: 120px;
+    top: 50%;
+    position: absolute;
+    left: 50%;
+    width: 300px;
+    margin-left: -150px;
+    margin-top: -60px;
+}

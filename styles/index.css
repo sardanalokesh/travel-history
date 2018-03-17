@@ -1,0 +1,22 @@
+body {
+	height: 100vh;
+}
+
+.welcome {
+	font-weight: bold;
+}
+
+#output {
+	display: block;
+	height: 91%;
+	overflow: auto;
+	visibility: hidden;
+}
+
+#logoutlink:active {
+	background-color: #ea3a6b;
+}
+
+#errormsg {
+	display: block;
+}
